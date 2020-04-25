@@ -20,7 +20,7 @@ Initial Version
 
 2. Turn up the volume of your system for the voice notification.
 
-3. Fill up your cart with your complete order before running the process so as to quickly proceed with checkout as soon as a slot is found. However, you can fill up your cart after launching the application as well.
+3. Fill up your cart with your complete order before running the process so as to quickly proceed with checkout as soon as a slot is found. However, you can fill up your cart after launching the application as well. 
 
 ## Option 1 - Download and run the executables
 
@@ -64,7 +64,7 @@ Initial Version
 
 ![5Cart](https://raw.githubusercontent.com/vivekgautam104/instacart-slot-finder/master/images/5Cart.png)
 
-6. DO NOT click "Go to Checkout" Page. Click on “Notify Me” button on the tool and turn up the volume of your system
+6. DO NOT click "Go to Checkout" Page. Click on “Notify Me” button on the tool and turn up the volume of your system. It is required to fill in the cart before clicking on "Notify Me" as the tool looks for the slot in the background on the checkout page. 
 
 ![6NotifyMe](https://raw.githubusercontent.com/vivekgautam104/instacart-slot-finder/master/images/6NotifyMe.png)
 
