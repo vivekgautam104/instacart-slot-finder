@@ -7,7 +7,7 @@ A cross platform tool that finds available delivery slots for Instacart delivery
 ****
 Users in United States can also use our other slot finder tool for the ["Amazon Fresh" delivery](https://github.com/ojasvi92/Amazon-Fresh-Delivery-Slot-Notifier-COVID-19)
 
-Users in India can use our tool for the [“BigBasket” Delivery](https://github.com/vivekgautam104/bigbasket-slot-finder)
+Users in India can use our tool for the [“BigBasket” delivery](https://github.com/vivekgautam104/bigbasket-slot-finder)
 ****
 V1.0 : 04/24/2020 
 Initial Version
